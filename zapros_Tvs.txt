@@ -1,0 +1,52 @@
+{
+  "name": "GODT_MODEL_DENSITY_BY_VA_A",
+  "type_calc": "simple_static",
+  "inputs":[
+    {
+      "name": "FeedSG_pred",
+      "points": [
+        {
+          "v": 858.39
+        }
+      ],
+      "i": 0
+    },
+    {
+      "name": "x__10_65_64_17_GODT_TI11021",
+      "points": [
+        {
+          "v": 321.15
+        }
+      ],
+      "i": 1
+    },
+    {
+      "name": "GODT_PI12119B",
+      "points": [
+        {
+          "v": 0.4245
+
+        }
+      ],
+      "i": 2
+    },
+    {
+      "name": "T_verha",
+      "points": [
+        {
+          "v": 141.7
+        }
+      ],
+      "i": 3
+    },
+    {
+      "name": "T_niza",
+      "points": [
+        {
+          "v": 339
+        }
+      ],
+      "i": 4
+    }
+  ]
+}
